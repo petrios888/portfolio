@@ -726,7 +726,7 @@ a {
 	z-index:0;
 }
 .skills-image {
-	background:url("../img/pro.gif") 50% 0 no-repeat;
+	background:url("img/pro.gif") 50% 0 no-repeat;
 	background-size:cover;
 	width:100%;
 	height:140%;
@@ -988,19 +988,19 @@ a {
 	filter:grayscale(100%);
 }
 .services .tab1 .tab-image {
-	background:url("../img/php.jpg") 50% 50% no-repeat;
+	background:url("img/php.jpg") 50% 50% no-repeat;
 	background-size:cover;
 }
 .services .tab2 .tab-image {
-	background:url("../img/python.jpg") 50% 50% no-repeat;
+	background:url("img/python.jpg") 50% 50% no-repeat;
 	background-size:cover;
 }
 .services .tab3 .tab-image {
-	background:url("../img/data.jpg") 50% 50% no-repeat;
+	background:url("img/data.jpg") 50% 50% no-repeat;
 	background-size:cover;
 }
 .services .tab4 .tab-image {
-	background:url("../img/javascript.jpg") 50% 50% no-repeat;
+	background:url("img/javascript.jpg") 50% 50% no-repeat;
 	background-size:cover;
 }
 .services .tab-half {
